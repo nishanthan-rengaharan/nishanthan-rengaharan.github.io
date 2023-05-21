@@ -52,7 +52,7 @@ const About = () => {
         className="mt-4 text-secondary text-[17px]
       max-w-3xl leading-[30px]"
       >
-        I am a computer science graduate student with experience in full-stack design, development, and deployment in cloud, coursework in Software Security and Data Mining, and research experience in Machine Learning, NLP, and Deep Learning, seeking full-time Internship and part-time opportunities.
+        I am a computer science graduate student with experience in full-stack design, development, and deployment in cloud, coursework in Software Security and Data Mining, and research experience in Machine Learning, NLP, and Deep Learning, seeking full-time and Internship opportunities.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

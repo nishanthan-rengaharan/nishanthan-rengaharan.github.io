@@ -25,6 +25,9 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import asu from "./company/asu.png";
+import au from "./company/Anna_University.png";
+import amadeus from "./company/amadeus.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -53,6 +56,9 @@ export {
   typescript,
   threejs,
   meta,
+  asu,
+  au,
+  amadeus,
   shopify,
   starbucks,
   tesla,
