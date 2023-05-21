@@ -20,6 +20,14 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import angular from "./tech/Angular.jpg";
+import aws from "./tech/AWS.png";
+import azure from "./tech/azure.png";
+import cpp from "./tech/cpp.png";
+import cypress from "./tech/cypress.png";
+import python from "./tech/python.png";
+import rust from "./tech/Rust.png";
+import sql from "./tech/SQL.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -55,6 +63,15 @@ export {
   tailwind,
   typescript,
   threejs,
+  angular,
+  aws,
+  azure,
+  cpp,
+  cypress,
+  python,
+  rust,
+  sql,
+
   meta,
   asu,
   au,

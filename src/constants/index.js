@@ -8,24 +8,32 @@ import {
     html,
     css,
     reactjs,
-    redux,
-    tailwind,
+    // redux,
+    // tailwind,
     nodejs,
     mongodb,
     git,
-    figma,
+    // figma,
     docker,
-    meta,
+    // meta,
     asu,
     au,
     amadeus,
-    starbucks,
-    tesla,
-    shopify,
+    // starbucks,
+    // tesla,
+    // shopify,
     carrent,
     jobit,
     tripguide,
     threejs,
+    angular,
+    aws,
+    azure,
+    cpp,
+    cypress,
+    python,
+    rust,
+    sql,
   } from "../assets";
   
   export const navLinks = [
@@ -64,17 +72,21 @@ import {
   
   const technologies = [
     {
-      name: "HTML 5",
-      icon: html,
+      name: "python",
+      icon: python,
     },
     {
-      name: "CSS 3",
-      icon: css,
+      name: "rust",
+      icon: rust,
     },
     {
-      name: "JavaScript",
-      icon: javascript,
+      name: "cpp",
+      icon: cpp,
     },
+    // {
+    //   name: "JavaScript",
+    //   icon: javascript,
+    // },
     {
       name: "TypeScript",
       icon: typescript,
@@ -84,46 +96,75 @@ import {
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
-      name: "Tailwind CSS",
-      icon: tailwind,
-    },
-    {
       name: "Node JS",
       icon: nodejs,
+    },
+    {
+      name: "angular",
+      icon: angular,
+    },
+    {
+      name: "cypress",
+      icon: cypress,
     },
     {
       name: "MongoDB",
       icon: mongodb,
     },
     {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
-      name: "git",
-      icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
+      name: "sql",
+      icon: sql,
     },
     {
       name: "docker",
       icon: docker,
     },
+    
+    {
+      name: "aws",
+      icon: aws,
+    },
+    {
+      name: "azure",
+      icon: azure,
+    },
+        // {
+    //   name: "Three JS",
+    //   icon: threejs,
+    // },
+    // {
+    //   name: "git",
+    //   icon: git,
+    // },
+    // {
+    //   name: "figma",
+    //   icon: figma,
+    // },
+     // {
+    //   name: "Redux Toolkit",
+    //   icon: redux,
+    // },
+    // {
+    //   name: "Tailwind CSS",
+    //   icon: tailwind,
+    // },
+     // {
+    //   name: "HTML 5",
+    //   icon: html,
+    // },
+    // {
+    //   name: "CSS 3",
+    //   icon: css,
+    // },
   ];
   
   const experiences = [
     {
       title: "M.S. Computer Science",
-      company_name: "Arizona State University",
+      company_name: "Arizona State University | GPA : 4.0",
       icon: asu,
       iconBg: "#E6DEDD",
-      date: "August 2022 - Present",
+      date: "Aug 2022 - Present",
       points: [
         "Cloud Computing",
         "Software Security",
@@ -149,7 +190,7 @@ import {
     },
     {
       title: "Bachelor of Engineering",
-      company_name: "Madras Institute of Technology, Anna University",
+      company_name: "MIT, Anna University | GPA : 8.77 / 10",
       icon: au,
       iconBg: "#E6DEDD",
       date: "Aug 2015 - May 2019",
