@@ -24,7 +24,7 @@ const FeedbackCard = ({ index, testimonial, name, designation, company, image })
           </p>
 
         </div>
-        <img 
+        <img
           src={image}
           alt={`feedback-by-${name}`}
           className="w-20 h-20 rounded-full object-cover"
@@ -57,4 +57,4 @@ const Feedbacks = () => {
   )
 }
 
-export default SectionWrapper( Feedbacks, "");
+export default SectionWrapper(Feedbacks, "");
