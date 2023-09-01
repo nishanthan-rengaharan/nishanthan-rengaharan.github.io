@@ -229,7 +229,7 @@ import {
       name: "Ridhika Malik",
       designation: "Engineering Manager",
       company: "Amadeus",
-      image: "https://media.licdn.com/dms/image/C4D03AQE8ojZv4ZVuyQ/profile-displayphoto-shrink_800_800/0/1668098646155?e=1689811200&v=beta&t=jXSA54k067-B5dwfxxPWu1L-MiOKfd5K49SFzwQfSDQ",
+      image: "https://media.licdn.com/dms/image/C4D03AQE8ojZv4ZVuyQ/profile-displayphoto-shrink_800_800/0/1668098646155?e=1698883200&v=beta&t=ZXBnIwjV37txQ2R0qZXBP-ZoaBuAsLk_yVKBipAjDrY",
     },
     // {
     //   testimonial:
