@@ -34,6 +34,7 @@ import {
     python,
     rust,
     sql,
+    ridhika,
   } from "../assets";
   
   export const navLinks = [
@@ -57,17 +58,17 @@ import {
       icon: web,
     },
     {
-      title: "Backend Developer",
+      title: "Backend Engineer",
       icon: backend,
     },
     {
-      title: "ML Engineer",
+      title: "Frontend Engineer",
       icon: creator,
     },
-     {
-      title: "Data Scientist",
-      icon: mobile,
-    },
+    //  {
+    //   title: "Data Scientist",
+    //   icon: mobile,
+    // },
   ];
   
   const technologies = [
@@ -75,10 +76,10 @@ import {
       name: "python",
       icon: python,
     },
-    {
-      name: "rust",
-      icon: rust,
-    },
+    // {
+    //   name: "rust",
+    //   icon: rust,
+    // },
     {
       name: "cpp",
       icon: cpp,
@@ -148,10 +149,10 @@ import {
     //   name: "Tailwind CSS",
     //   icon: tailwind,
     // },
-     // {
-    //   name: "HTML 5",
-    //   icon: html,
-    // },
+     {
+      name: "HTML 5",
+      icon: html,
+    },
     // {
     //   name: "CSS 3",
     //   icon: css,
@@ -166,9 +167,11 @@ import {
       iconBg: "#E6DEDD",
       date: "Aug 2022 - Present",
       points: [
+        "Distributed Software Development",
         "Cloud Computing",
         "Software Security",
         "Software Verification, Validation and Testing",
+        "Data Visualization",
         "Data Mining",
         "Natural Language Processing",
       ],
@@ -229,7 +232,7 @@ import {
       name: "Ridhika Malik",
       designation: "Engineering Manager",
       company: "Amadeus",
-      image: "https://media.licdn.com/dms/image/C4D03AQE8ojZv4ZVuyQ/profile-displayphoto-shrink_800_800/0/1668098646155?e=1698883200&v=beta&t=ZXBnIwjV37txQ2R0qZXBP-ZoaBuAsLk_yVKBipAjDrY",
+      image: ridhika,
     },
     // {
     //   testimonial:
